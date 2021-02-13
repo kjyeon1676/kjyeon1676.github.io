@@ -5,4 +5,4 @@ layout: categories
 author_profile: true
 ---
 
-## kjyeon1676.github.io Categories
+## Categories
